@@ -1,0 +1,8 @@
+{
+  "name": "G3 Beauty & Cosmetics",
+  "description": "Premium luxury beauty and cosmetics salon and shop website in Ethiopia, featuring online booking, e-commerce, user/admin dashboards, secure payments, and a local AI Beauty Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
